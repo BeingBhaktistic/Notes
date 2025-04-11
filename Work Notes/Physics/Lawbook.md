@@ -60,6 +60,14 @@
 
 31. Always find constraints and fix your **pivot** in that substance which remains constant during the whole event of the situation given in the problem, such as: "The half angle of cone is constant, the length of the rod is constant, the length of string is always constant, etc"
 
-32. For pure rolling, whenever two surfaces are in mutual contact with each other, the points of contact move with save velocity
+32. For no slipping conditions, whenever two surfaces are in mutual contact with each other, the points of contact move with same velocity
 
-33. 
+33. Normal is always perpendicular to the surface of the bigger dominating
+
+34. Magnitude of charge is quantized
+
+27. If any vector is applied in **tircha** or tilted at some angle, then make axes, and split the vectors among it's suitable components
+
+28. Friction always depends only on the **NORMAL force**, not on the upward force ❌
+
+29. 

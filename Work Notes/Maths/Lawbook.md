@@ -2,7 +2,7 @@
 
 2. When you see something can be converted to more simpler form and more recognizable form, do it!!
 
-3. If your mind says : "Accha hota agar....", then do it!! (Listen to your MIND only this time!!)
+3. If your mind says : "Accha hota agar.... ye hota!", then do it!! (Listen to your MIND only this time!!)
 
 4. Always rearrange and remake the question to be **soothing to your eyes**, such as quadratic : ax<sup>2</sup>+bx+c=0, Linear : ax+b=0
 
@@ -26,4 +26,27 @@
 
 14. Make your common senses and MIND more activated during PROBLEM SOLVING to make everything buttery-smooth
 
-15. 
+15. In vectors, complex, AOD, Conics, Definite Integrals, always draw diagrams to simplify the questions
+
+16. Always impose low level simple patterns and deductions and scale them up to elevated problems, eg: when you see x and 1/x type, apply AM-GM inequality
+
+17. Be fluid with the language and the notations used in PCM
+
+18. There is Nothing like : **"OUT OF THE BOX THINKING"**, it's just an unbroken chain of deductive and logical thinking
+
+19. Always try to extract 100% of information from each and every word in the question analytically, don't leave any word without analyzing why it has been given?
+
+20. Do exactly what the question wants you to do!!
+
+21. Always look for break-points or critical points, or something absurd noticeable things to be noticed, such as formation of 0/0 in a fraction, f(0), f(1), etc
+
+22. Try to make the problem more relateable!!
+
+23. Convert UNKNOWN situation into more known situation
+
+24. Always be fixed in basic and fundamental rigid principles!!
+
+25. Always DROP your **FEAR!!**
+
+26. During problem solving, always each and every step with prior confirmation and consciously --- don't take any step without any conviction or don't take any step blindly
+
